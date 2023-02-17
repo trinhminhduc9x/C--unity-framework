@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: e9cbe781768fa4076ba892564797764b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RunningVolt_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 438
+        width: 209
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 415
+        width: 229
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 404
+        width: 236
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 396
+        width: 197
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_4
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 386
+        width: 204
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 206
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 65
+        width: 235
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 70
+        width: 242
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_8
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 50
+        width: 216
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: RunningVolt_9
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 62
+        width: 208
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
